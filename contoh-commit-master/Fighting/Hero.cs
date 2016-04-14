@@ -44,7 +44,7 @@ namespace Fighting
         public void setExp(int e)
         {
             exp = e;
-            if (exp > 480)
+            if (exp > 1048)
             {
                 lv++;
             }
