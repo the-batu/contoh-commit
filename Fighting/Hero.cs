@@ -14,8 +14,8 @@ namespace Fighting
         {
             lv = level;
             Random r = new Random();
-            this.setMaxHp(level * 100);
-            this.setmaxMp(level * 10);
+            this.setMaxHp(level * 500);
+            this.setmaxMp(level * 100);
             this.setHp(level * 100);
             this.setMp(level * 10);
             this.setAtk(level * 10 - r.Next(0, 11));
@@ -43,11 +43,7 @@ namespace Fighting
         }
         public void setExp(int e)
         {
-            exp = e;
-            if (exp > 1000)
-            {
-                lv++;
-            }
+            
         }
         public int getLevel()
         {
