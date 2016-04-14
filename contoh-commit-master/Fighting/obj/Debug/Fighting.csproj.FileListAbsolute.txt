@@ -1,0 +1,12 @@
+E:\visual_studio\Fight\Fighting\bin\Debug\Fighting.exe.config
+E:\visual_studio\Fight\Fighting\bin\Debug\Fighting.exe
+E:\visual_studio\Fight\Fighting\bin\Debug\Fighting.pdb
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.csprojResolveAssemblyReference.cache
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.Form1.resources
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.Properties.Resources.resources
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.csproj.GenerateResource.Cache
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.exe
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.pdb
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.Command.resources
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.Heal_Spell_List.resources
+E:\visual_studio\Fight\Fighting\obj\Debug\Fighting.Use_Item.resources
